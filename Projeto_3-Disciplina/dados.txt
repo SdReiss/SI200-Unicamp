@@ -1,0 +1,10 @@
+Disciplina Exemplo
+Professor de Exemplo
+Aluno 1
+123456
+18
+0.987654
+Aluno 2
+654321
+81
+0.123456
