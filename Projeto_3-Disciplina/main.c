@@ -1,10 +1,3 @@
-/*
- * Atividade Realizada Individualmente
- * Aluno: Breno Souza dos Reis
- * RA: 232246
- *
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
